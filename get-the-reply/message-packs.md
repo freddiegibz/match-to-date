@@ -44,8 +44,6 @@ If her profile has a photo of her jumping into the sea, fill it in like this:
 
 The photo is the real detail. "fun on holiday" and "an absolute liability" are the two playful assumptions. Neither needs to be true. They just give her an easy reason to reply.
 
-Keep the assumptions light. Do not use an insult, a serious judgement, or something sexual. If she can smile at it and say "what makes you say that?", it works.
-
 > okay, the [photo / prompt / detail] tells me you are either [playful assumption] or [playful assumption]. which one is it?
 
 > i have a theory about the [photo / prompt / detail], but i need you to confirm it first
