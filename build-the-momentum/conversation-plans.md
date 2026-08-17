@@ -7,10 +7,11 @@ Your job is not to keep her talking for hours. Your job is to turn her first rep
 ## The Whole Process
 
 1. Reply to the answer she actually gave you.
-2. Pull one interesting detail from her next message.
-3. Stay on that detail for two or three messages.
-4. Change topic when it has run its course.
-5. Ask her out when she is giving you energy back.
+2. Start a thread if she has not given you a usable detail yet.
+3. Pull one interesting detail from her next message.
+4. Stay on that detail for two or three messages.
+5. Change topic when it has run its course.
+6. Ask her out when she is giving you energy back.
 
 That is all you are trying to do.
 
