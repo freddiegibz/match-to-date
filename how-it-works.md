@@ -1,64 +1,69 @@
 # How It Works
 
-Use this product when you are in a real dating-app situation and need to know what to do next.
+There are eight parts, in the order a dating-app match normally moves.
 
-You do not need to read all eight parts before you use it.
+You do not need to read the whole product. Open the part you need help with right now.
 
-## 1. Find The Exact Point You Are At
+## 1. Select The Stage You Are In
 
-Start with **Find Your Stage** if you are unsure.
+Look at what has happened in the chat and choose the matching part.
 
-For example:
+- She has matched but you have not messaged: **Get The Reply**.
+- She replied but you do not know how to keep talking: **Build The Momentum**.
+- The conversation died: **Bring The Conversation Back**.
+- You want to ask her out: **Get The Yes**.
+- She has said yes and you need a real plan: **Put The Date In The Calendar**.
 
-- She matched but you have not messaged yet: open **Get The Reply**.
-- She replied but the chat is starting to go flat: open **Build The Momentum**.
-- The conversation stopped: open **Bring The Conversation Back**.
-- You want to ask her out: open **Get The Yes**.
+If you are not sure, use **Find Your Stage** first.
 
-Pick the part that describes what is happening now, not the part you think you should be at.
+## 2. Choose The Type Of Help You Need
 
-## 2. Read The Guide First
+Each part gives you two different pages.
 
-Open the **Intro and mistakes** guide in that part.
+### Intro And Mistakes
 
-It tells you:
+Open this when you need to understand the situation before you act.
 
-- What you are trying to achieve at this stage.
-- What a good response or result looks like.
-- What usually goes wrong.
-- When you are ready to move on.
+It explains:
 
-Read this before copying a message. It stops you using the right line at the wrong time.
+- What this stage is for.
+- What a good outcome looks like.
+- The common mistakes that lose the match here.
+- How to know when you are ready for the next stage.
 
-## 3. Choose The Message Or Plan That Fits
+Read this if you are unsure what to do, why a chat is not moving, or what you keep getting wrong.
 
-Open the second page in that part.
+### Messages, Plans Or Ideas
 
-Choose the option that most closely matches the situation you are actually in.
+Open this when you already understand the situation and need something practical to use.
 
-Copy it, then change any brackets or details so it fits the chat. Do not send five different messages. Pick one good move.
+This is where you will find:
 
-## 4. See What She Gives You Back
+- Copy-and-paste messages.
+- Fill-in-the-blank messages you can make fit her profile.
+- Conversation plans.
+- Date asks.
+- Date ideas.
+- Replies for specific situations.
 
-Her response tells you what to do next.
+Choose the option that matches your situation. Change any brackets or details before you send it.
 
-- If she replies and plays along, keep the conversation going with **Build The Momentum**.
-- If she gives you a warm yes to a date, use **Put The Date In The Calendar**.
-- If she is vague or does not offer another time, use the response in the part you are already in.
-- If the chat dies, do not keep sending messages. Go to **Bring The Conversation Back** when you are ready to make one clean restart.
+## 3. Make One Move, Then Come Back When You Need The Next One
 
-## 5. Move To The Next Part When The Job Is Done
+Do not send every message in a pack. Pick the one that fits, send it, and see what she gives you back.
 
-Each part has one job.
+If she replies, move to the part that matches the new situation.
 
-Do not stay in the conversation part once there is enough momentum to ask her out. Do not keep planning the date once the plan is set.
+If she says yes to the date, go to **Put The Date In The Calendar**.
 
-Finish the job in front of you, then open the next part only when you need it.
+If the chat dies, go to **Bring The Conversation Back**.
+
+The product is there for the next moment, not for you to memorise all at once.
 
 ## The Simple Version
 
-1. Find where you are.
-2. Read what that part is for.
-3. Choose the message or plan that fits.
-4. Send one clear move.
-5. Use her response to decide the next part.
+1. Choose the stage.
+2. Open **Intro and mistakes** if you need to understand it.
+3. Open **Messages, plans or ideas** if you need something to use.
+4. Make one move.
+5. Come back when the situation changes.
