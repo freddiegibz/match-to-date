@@ -28,23 +28,37 @@ Nothing is technically wrong with that. But she is doing all the answering while
 
 For now, use this instead.
 
-## First Say Something. Then Ask Something.
+## Use Conversation Threading
 
-When she gives you an answer, start by saying what you think about it.
+Conversation threading is a recognised dating-coach conversation technique. It means you take one specific detail from what she just said and use that detail to keep the chat moving.
 
-Then give her one easy thing to respond to.
+Do not treat her message as something you need to answer and then escape from. Look for the part with the most personality in it and pull on that instead.
 
-That is it.
+Her:
 
-You can remember it as **React, Add, Return**, but here is what that actually means:
+> i went to Lisbon at the weekend
 
-**React** means say what you think about the thing she just said. It can be a playful comment, a small disagreement, or a genuine reaction.
+The obvious question is:
 
-**Add** means give her one small thing about you. An opinion, a story, or something you have done that connects to what she said.
+> nice. what did you do there?
 
-**Return** means give her the conversation back. Ask a question, give her two options to choose from, or say something she can disagree with.
+That gives her more work and sends the chat straight into travel-interview mode.
 
-You do not have to use all three parts in every message. But when you are stuck, use all three. It stops you going blank and gives her more to work with.
+Thread the detail instead:
+
+> Lisbon for a weekend is a very confident choice. were you there for the food or pretending to be cultured?
+
+You used the same detail, but gave her a playful choice and an opinion to react to. That creates more places for the chat to go.
+
+When she sends a message, look for one of these threads:
+
+- A place she mentioned.
+- A strong opinion.
+- A hobby or habit.
+- A funny detail.
+- Something you can lightly disagree with or tease.
+
+Pull one thread at a time. You do not need to use every detail in her message. Pick the one that gives you the most natural next message.
 
 ## See It Work, One Step At A Time
 
