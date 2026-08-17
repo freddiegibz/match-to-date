@@ -4,6 +4,56 @@ This pack gives you a repeatable way to turn her replies into a conversation, pl
 
 Read the first example once. Then use the section that matches what she has just said.
 
+## The First Reply After Your Opener
+
+Do not jump straight into conversation threading if she has only replied to your opener. First, answer the reply she actually gave you.
+
+Your job here is simple: keep the same tone as the opener and give her one more easy thing to react to.
+
+If she asks what you mean:
+
+You:
+
+> ur cute but you look like trouble
+
+Her:
+
+> what makes you say that?
+
+You:
+
+> you have the look of someone who says “one drink” and gets home at 4am. tell me i am wrong
+
+You answered her question, kept it playful, and gave her something to deny or play along with.
+
+If she plays along:
+
+You:
+
+> ur cute but you look like trouble
+
+Her:
+
+> maybe i am
+
+You:
+
+> dangerous answer. i need some evidence before i believe you
+
+Do not suddenly switch into “so what do you do?” Match the energy she gave you first.
+
+If she gives you a short, warm answer:
+
+Her:
+
+> haha thank you
+
+You:
+
+> you took that as a compliment far too quickly. now i am even more suspicious
+
+That is enough to give the chat another beat. If she then mentions something real about herself, a place, a hobby, an opinion or a story, move to conversation threading below and pull on that detail.
+
 ## Start Here: Stop Asking The Next Question Straight Away
 
 Here is the conversation that kills the energy:
