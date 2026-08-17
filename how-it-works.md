@@ -1,37 +1,64 @@
 # How It Works
 
-This is not a collection of random lines to copy and paste.
+Use this product when you are in a real dating-app situation and need to know what to do next.
 
-It is the complete path from a new match to a second date.
+You do not need to read all eight parts before you use it.
 
-Every stage has a different job.
+## 1. Find The Exact Point You Are At
 
-Trying to ask her out before there is any momentum, or keeping a conversation going when it is time to make a plan, is where most matches get lost.
+Start with **Find Your Stage** if you are unsure.
 
-Start by finding the stage you are in.
+For example:
 
-Then work through that section in order.
+- She matched but you have not messaged yet: open **Get The Reply**.
+- She replied but the chat is starting to go flat: open **Build The Momentum**.
+- The conversation stopped: open **Bring The Conversation Back**.
+- You want to ask her out: open **Get The Yes**.
 
-Understand what is happening.
+Pick the part that describes what is happening now, not the part you think you should be at.
 
-Avoid the mistakes that kill it.
+## 2. Read The Guide First
 
-Use the messages and plans that fit.
+Open the **Intro and mistakes** guide in that part.
 
-Move forward when she gives you the signal.
+It tells you:
 
-## What Each Stage Gives You
+- What you are trying to achieve at this stage.
+- What a good response or result looks like.
+- What usually goes wrong.
+- When you are ready to move on.
 
-Every stage explains:
+Read this before copying a message. It stops you using the right line at the wrong time.
 
-- What this stage is really about
-- What progress looks like
-- The mistake that stops things moving
-- How to progress to the next stage
-- The exact messages to use
-- The plans to use when a message alone is not enough
-- What to say or do after she responds
+## 3. Choose The Message Or Plan That Fits
 
-The goal is not to keep a chat alive forever.
+Open the second page in that part.
 
-The goal is to move naturally from match, to conversation, to date, to seeing her again.
+Choose the option that most closely matches the situation you are actually in.
+
+Copy it, then change any brackets or details so it fits the chat. Do not send five different messages. Pick one good move.
+
+## 4. See What She Gives You Back
+
+Her response tells you what to do next.
+
+- If she replies and plays along, keep the conversation going with **Build The Momentum**.
+- If she gives you a warm yes to a date, use **Put The Date In The Calendar**.
+- If she is vague or does not offer another time, use the response in the part you are already in.
+- If the chat dies, do not keep sending messages. Go to **Bring The Conversation Back** when you are ready to make one clean restart.
+
+## 5. Move To The Next Part When The Job Is Done
+
+Each part has one job.
+
+Do not stay in the conversation part once there is enough momentum to ask her out. Do not keep planning the date once the plan is set.
+
+Finish the job in front of you, then open the next part only when you need it.
+
+## The Simple Version
+
+1. Find where you are.
+2. Read what that part is for.
+3. Choose the message or plan that fits.
+4. Send one clear move.
+5. Use her response to decide the next part.
