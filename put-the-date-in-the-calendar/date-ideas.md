@@ -1,8 +1,8 @@
 ﻿# Put The Date In The Calendar: Date Ideas To Use
 
-Choose the idea that fits the time of day, weather, budget, and conversation you have already had.
+You have got the yes. Now turn it into an actual plan she can say yes to.
 
-Keep the first date simple. A good plan is easy to say yes to, easy to leave if the vibe is not there, and easy to extend if it is.
+Below are date ideas for different times, budgets, weather and moods, with messages to send for each one. Pick the idea that fits the conversation you have already had, then give her a day, time and place. The best first-date plans are simple enough to agree to quickly, but give you somewhere to go next if the date is going well.
 
 ## The Easy Default: A Drink Somewhere You Can Talk
 
