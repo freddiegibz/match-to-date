@@ -20,6 +20,22 @@ Start by responding to her reply, not by jumping to a new question.
 
 If she asks what you mean, give her your playful reason. If she plays along, play back. If she gives a short warm answer, lightly tease it and give her one more easy thing to react to.
 
+For example:
+
+You:
+
+> ur cute but you look like trouble
+
+Her:
+
+> what makes you say that?
+
+You:
+
+> you have the look of someone who says “one drink” and gets home at 4am. tell me i am wrong
+
+You answered her question, kept the same tone, and gave her a clear thing to react to. That is all the first reply needs to do.
+
 The only thing you are looking for is one real detail from her: a place, a hobby, an opinion, a story, or something she did.
 
 Once she gives you that detail, use the next section to pull on it.
