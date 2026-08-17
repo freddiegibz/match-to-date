@@ -26,7 +26,7 @@ If she says yes, reply:
 
 ## Fill In The Blanks
 
-These are useful when there is something in her profile you can use to start a personal conversation. Replace everything in brackets before you send it.
+When there is something in her profile to work with, these are the stronger openers to use. They make it clear you noticed her, not like you sent the same line to every match. Replace everything in brackets before you send it.
 
 ### How To Fill One In
 
