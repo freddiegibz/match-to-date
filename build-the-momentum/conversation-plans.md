@@ -1,4 +1,4 @@
-# Build The Momentum: Turn Her Reply Into A Conversation
+﻿# Build The Momentum: Turn Her Reply Into A Conversation
 
 This page is for the moment after she replies to your opener.
 
@@ -14,50 +14,83 @@ Your job is not to keep her talking for hours. Your job is to turn her first rep
 
 That is all you are trying to do.
 
-## 1. Handle Her First Reply
+## 1. Reply To What She Actually Said
 
-Your opener usually gets one of three replies. Use the matching move below.
+Do not overthink which exact kind of reply she sent. Read it, keep the tone of your opener, and give her one more easy thing to react to.
 
-### She Asks What You Mean
+If she asks what you mean, answer her question with a playful reason. If she plays along, play back. If she gives you a short warm answer, lightly tease it and keep the same vibe for one more message.
 
-You:
+Use the opener you sent, then choose the reply underneath that feels closest.
 
-> ur cute but you look like trouble
+### If You Opened With “You Look Like Trouble”
 
 Her:
 
 > what makes you say that?
 
-You:
+Send one of these:
 
 > you have the look of someone who says “one drink” and gets home at 4am. tell me i am wrong
 
-Answer her question, keep the same playful tone, then give her something she can deny or play along with.
+> the pictures are giving “good influence until about 10pm” energy
 
-### She Plays Along
+> you look far too innocent for someone with that much confidence in their pictures
 
 Her:
 
 > maybe i am
 
-You:
+Send one of these:
 
 > dangerous answer. i need some evidence before i believe you
 
-Do not switch to “what do you do?” because you have got a reply. Stay in the tone she gave you for one more message.
+> i knew it. what is the most trouble you have caused recently?
 
-### She Gives A Short Warm Reply
+> this is exactly the answer i was worried about
 
 Her:
 
 > haha thank you
 
-You:
+Send one of these:
 
 > you took that as a compliment far too quickly. now i am even more suspicious
 
-You are not trying to force a whole conversation from one short reply. You are simply giving her another easy beat to respond to.
+> see, that is not a denial. interesting
 
+> i am glad you are owning it at least
+
+### If You Opened With “What’s Interesting About Your Pictures?”
+
+Her:
+
+> what is it?
+
+Send one of these:
+
+> they make you look either very sweet or very good at pretending to be. i have not decided yet
+
+> you look like you have one story you only tell after two drinks
+
+> the [specific photo] looks like there is definitely a story behind it
+
+### If You Opened With “Can I Be Honest?”
+
+Her:
+
+> yes
+
+Send:
+
+> you are just my type
+
+Then wait for her reply. Do not add another message straight after it.
+
+## What You Are Looking For Next
+
+You only need one thing from this exchange: a real detail from her that you can use.
+
+A place she has been. A hobby. A strong opinion. A story. Something she did. Once she gives you that, go to the next section and pull on that detail.
 ## 2. Pull One Thread From What She Says Next
 
 Once she gives you something real about herself, use **conversation threading**.
@@ -68,11 +101,11 @@ Her:
 
 > i went to Lisbon at the weekend. the food was ridiculous
 
-The thread is not “what did you do there?” The useful detail is the food.
+The thread is not â€œwhat did you do there?â€ The useful detail is the food.
 
 You:
 
-> “ridiculous” is a big claim. give me the one place that makes Lisbon worth booking
+> â€œridiculousâ€ is a big claim. give me the one place that makes Lisbon worth booking
 
 Now she has an easy, specific question to answer. She can recommend somewhere, disagree, or tell a story.
 
@@ -114,7 +147,7 @@ Or:
 
 > right, we have covered the important stuff. are you a plan-the-whole-trip person or a book-the-flight-and-hope person?
 
-Do not send “how has your day been?” because you do not know what else to say. Give her a question with an opinion, a choice or a bit of personality in it.
+Do not send â€œhow has your day been?â€ because you do not know what else to say. Give her a question with an opinion, a choice or a bit of personality in it.
 
 ## 5. Know When To Ask Her Out
 
@@ -138,3 +171,4 @@ Give her one clean reset:
 If she still gives you nothing back, stop. You cannot create momentum alone.
 
 Use **Bring The Conversation Back** later if you want to make one good restart.
+
