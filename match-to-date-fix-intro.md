@@ -4,12 +4,6 @@ Once you have fixed your photos, you will get more matches.
 
 This shows you the steps after that: how to consistently turn those matches into dates and, eventually, “when can I see you again?” without learning every part through trial and error.
 
-If you mess up a couple of matches, that is fine. Everyone does it.
-
-I have done it plenty of times. I have sent the wrong message, let a good chat go flat, waited too long to ask her out, and lost matches I wish I had handled differently.
-
-That is exactly why I built this product. It is built from what has worked for me, and from the mistakes that showed me what does not.
-
 Getting the match is the opportunity. Knowing what to do after it is what turns the opportunity into something real.
 
 Most men guess their way through it.
@@ -47,3 +41,11 @@ See what you are trying to do.
 Use the message or plan that fits.
 
 Know exactly what to say next.
+
+## One Last Thing
+
+If you mess up a couple of matches, that is fine. Everyone does it.
+
+I have done it plenty of times. I have sent the wrong message, let a good chat go flat, waited too long to ask her out, and lost matches I wish I had handled differently.
+
+That is exactly why I built this product. It is built from what has worked for me, and from the mistakes that showed me what does not.
