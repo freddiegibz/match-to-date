@@ -1,22 +1,22 @@
 ﻿# Intro
 
-Once you have fixed your photos, you will get more matches.
+Once your photos are doing their job, you get more matches.
 
-This shows you the steps after that: how to consistently turn those matches into dates and, eventually, "when can I see you again?" without learning every part through trial and error.
+Good. Now comes the bit that decides whether any of those matches go anywhere.
 
-Getting the match is the opportunity. Knowing what to do after it is what turns the opportunity into something real.
+A match is not a date. It is not even a conversation yet. It is just a girl who liked what she saw on your profile and is waiting to see whether you are actually worth talking to.
 
-Most men guess their way through it.
+This is where most guys lose it.
 
-They send an opener, hope it lands, run out of things to say, wait too long to ask her out, then have no idea what to text after the date.
+They get the match, send “hey”, get a reply they do not know what to do with, then either turn the chat into an interview or let it die. If it does go well, they wait too long to ask her out. Then, after the date, they have no clue what to send.
 
-This product gives you a next move for each of those moments.
+None of that is because they are hopeless with girls. They are guessing their way through every stage.
 
-It is not a pile of random dating-app tips or messages you have to test for yourself.
+I have had hundreds of matches. Some turned into great dates. Some I lost by forcing a conversation, asking too early, waiting too long, or having no idea what to say next. The wins gave me moves worth repeating. The losses showed me exactly what kills momentum.
 
-Every part is built around tactics that have held up across hundreds of matches, the dates they turned into, and the mistakes that showed exactly what loses momentum.
+This product is that information in one place.
 
-I have used the wins and the failures to cut out the guessing. The messages, conversation plans and date asks in here are the ones worth using when you want to move things forward.
+The messages, conversation plans and date asks in here are built from the things that got replies, kept conversations moving, got dates booked, and led to seeing each other again. They also use the best dating-coach strategies, without making you spend hundreds on a course just to find the one part you need.
 
 ## What This Product Contains
 
