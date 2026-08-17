@@ -4,6 +4,8 @@ You got the reply. Your job here is to increase the momentum until you can ask h
 
 We will run through what conversation threading is and how to use it. Then, at the bottom, you will find ready-to-use messages for each job.
 
+It is alright if you struggle at first. It becomes a lot more natural over time.
+
 ## The Whole Process
 
 1. Reply to the answer she actually gave you.
