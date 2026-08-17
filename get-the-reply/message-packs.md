@@ -74,6 +74,31 @@ Profile detail: a photo with her dog
 
 > i cannot work out whether the dog makes you look sweeter or more like you know exactly how to get your own way
 
+## Use ChatGPT To Fill These In
+
+If you can see a few details in her profile but cannot turn them into an opener, paste her profile into ChatGPT with this prompt:
+
+```
+Read this dating-app profile and turn it into opening messages.
+
+Use only real details from her photos and prompts. Do not invent anything.
+
+Fill in the templates below where they fit. Give me one completed opener for each template. Keep them lowercase, playful and curious. Do not make them sexual, insulting or overly complimentary. If a template does not fit her profile, skip it.
+
+Templates:
+1. okay, the [photo / prompt / detail] tells me you are either [playful assumption] or [playful assumption]. which one is it?
+2. i have a theory about the [photo / prompt / detail], but i need you to confirm it first
+3. that [photo / prompt / detail] is giving me [playful assumption] energy. fair?
+4. i cannot work out whether the [photo / prompt / detail] makes you look more [positive trait] or more [playful trait]
+5. be honest, was the [photo / prompt / detail] your idea or did someone make you do it?
+6. i feel like there is a story behind the [photo / prompt / detail]. how wrong am i?
+7. the [photo / prompt / detail] is a very bold choice. i respect it
+8. you seem like the kind of person who would [playful assumption based on profile detail]. tell me i am wrong
+
+Her profile:
+[paste her photos, prompts and bio here]
+```
+
 ## Before You Send It
 
 - [ ] Does it make her curious or give her something to play along with?
