@@ -1,4 +1,4 @@
-# Get The Reply: Messages To Use
+﻿# Get The Reply: Messages To Use
 
 Pick one message. Do not send two openers. Do not explain the hook until she replies.
 
@@ -8,21 +8,19 @@ We have tried hundreds of openers. These are the ones that consistently proved b
 
 > ur cute but you look like trouble
 
-> hey [name], you know what’s interesting about your pictures?
+> hey [name], you know what's interesting about your pictures?
 
 > can i be honest?
+
+If she says yes, reply:
+
+> you're just my type
 
 > you look like a bad influence
 
 > i cannot decide if you look sweet or just very good at pretending to be
 
 > quick question, are you always this hard to read or is it just the pictures?
-
-## The Follow-Up To “Can I Be Honest?”
-
-If she says yes:
-
-> you’re just my type
 
 ## Fill In The Blanks
 
@@ -64,3 +62,6 @@ Profile detail: a photo with her dog
 - [ ] Is it light and flattering?
 - [ ] Do you know what you will say when she asks what you mean?
 - [ ] Does it sound like you?
+
+
+
