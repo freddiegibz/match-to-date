@@ -189,6 +189,33 @@ If she says she just came back from Lisbon:
 > okay, now i need the story behind Lisbon. food, sun, or did you actually do something cultured?
 
 Use one. Then go back to the method above and pull on whatever she gives you next.
+### When You Need To Start The First Thread
+
+Use these when her reply has not given you a real detail to pull on yet. Pick one, then thread whatever she says back.
+
+> important question: what is something everyone loves that you think is massively overrated?
+
+> right, enough of the safe answers. what is the most impulsive thing you have done recently?
+
+> i need to know if we are compatible on one thing: [food / music / travel / your city]?
+
+> be honest, are you a [option one] person or a [option two] person?
+
+> what is your most controversial opinion about [food / music / films / your city]?
+
+> quick one: what is a very normal thing you are weirdly particular about?
+
+> what is the most you thing you could possibly do on a free Saturday?
+
+> i have a theory that your answer to [topic] tells me everything i need to know. prove me wrong
+
+For example:
+
+> be honest, are you a plan-the-whole-trip person or a book-the-flight-and-hope person?
+
+> quick one: what is a very normal thing you are weirdly particular about?
+
+When she answers, do not ask another random question. Pick one detail from her answer and use the thread replies above.
 ## If She Is Giving You Nothing
 
 Give her one clean reset:
@@ -198,6 +225,7 @@ Give her one clean reset:
 If she still gives you nothing back, stop. You cannot create momentum alone.
 
 Use **Bring The Conversation Back** later if you want to make one good restart.
+
 
 
 
