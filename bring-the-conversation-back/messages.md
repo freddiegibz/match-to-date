@@ -1,10 +1,12 @@
 ﻿# Bring The Conversation Back: Messages To Use
 
-You are not sending a follow-up to ask why she disappeared.
+**What this page solves:** a chat that has gone quiet after you were already talking.
 
-You are giving her an easy way back into the conversation.
+**What is inside:** four restart routes, with ready-to-use messages for bringing back an old topic, starting a fresh one, sending something that reminded you of her, or asking her out if the earlier chat already had enough momentum.
 
-Pick the route that fits the chat you had. Send one message. If she does not reply, leave it there.
+**Why these work:** every route gives her something specific and easy to respond to. You are not making the silence the topic. You are giving the conversation a new place to start.
+
+Pick the route that matches the chat you had, make any bracketed detail fit, and send one message.
 
 ## 1. Bring Back Something You Already Talked About
 
