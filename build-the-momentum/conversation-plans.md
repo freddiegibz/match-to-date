@@ -39,7 +39,20 @@ You answered her question, kept the same tone, and gave her a clear thing to rea
 The only thing you are looking for is one real detail from her: a place, a hobby, an opinion, a story, or something she did.
 
 Once she gives you that detail, use the next section to pull on it.
-## 2. Pull One Thread From What She Says Next
+## 2. Start A Thread When She Has Not Given You One
+
+Sometimes her first reply gives you nothing to pull on yet. That is normal. Do not force a random “what do you do?” question.
+
+Start a thread with a playful question that gives her an opinion, a choice, or a story to answer.
+
+> important question: what is something everyone loves that you think is massively overrated?
+
+> i need to know if we are compatible on one thing. [food / music / travel / your city]?
+
+> right, enough of the safe answers. what is the most impulsive thing you have done recently?
+
+Use one question, not three. When she answers, pick one detail from that answer and move to Part 3.
+## 3. Pull One Thread From What She Says Next
 
 Once she gives you something real about herself, use **conversation threading**.
 
@@ -67,7 +80,7 @@ Look for these kinds of threads:
 
 Pick one. You do not need to reply to every part of her message.
 
-## 3. Keep That Thread Going
+## 4. Keep That Thread Going
 
 Do not change subject after every message. Stay with one topic for two or three good exchanges.
 
@@ -85,7 +98,7 @@ Then give her the next easy place to go:
 
 You stayed on travel, but moved it from Lisbon into what she is like. That is how the conversation gets more interesting without becoming deep or serious too early.
 
-## 4. When The Topic Is Finished, Change It Cleanly
+## 5. When The Topic Is Finished, Change It Cleanly
 
 Not every topic needs to last forever. When you have had a few messages and it has run out, close it quickly and start a new one.
 
@@ -97,7 +110,7 @@ Or:
 
 Do not send â€œhow has your day been?â€ because you do not know what else to say. Give her a question with an opinion, a choice or a bit of personality in it.
 
-## 5. Know When To Ask Her Out
+## 6. Know When To Ask Her Out
 
 You are ready when she is helping you carry the conversation.
 
@@ -184,5 +197,6 @@ Give her one clean reset:
 If she still gives you nothing back, stop. You cannot create momentum alone.
 
 Use **Bring The Conversation Back** later if you want to make one good restart.
+
 
 
