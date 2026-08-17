@@ -16,81 +16,13 @@ That is all you are trying to do.
 
 ## 1. Reply To What She Actually Said
 
-Do not overthink which exact kind of reply she sent. Read it, keep the tone of your opener, and give her one more easy thing to react to.
+Start by responding to her reply, not by jumping to a new question.
 
-If she asks what you mean, answer her question with a playful reason. If she plays along, play back. If she gives you a short warm answer, lightly tease it and keep the same vibe for one more message.
+If she asks what you mean, give her your playful reason. If she plays along, play back. If she gives a short warm answer, lightly tease it and give her one more easy thing to react to.
 
-Use the opener you sent, then choose the reply underneath that feels closest.
+The only thing you are looking for is one real detail from her: a place, a hobby, an opinion, a story, or something she did.
 
-### If You Opened With “You Look Like Trouble”
-
-Her:
-
-> what makes you say that?
-
-Send one of these:
-
-> you have the look of someone who says “one drink” and gets home at 4am. tell me i am wrong
-
-> the pictures are giving “good influence until about 10pm” energy
-
-> you look far too innocent for someone with that much confidence in their pictures
-
-Her:
-
-> maybe i am
-
-Send one of these:
-
-> dangerous answer. i need some evidence before i believe you
-
-> i knew it. what is the most trouble you have caused recently?
-
-> this is exactly the answer i was worried about
-
-Her:
-
-> haha thank you
-
-Send one of these:
-
-> you took that as a compliment far too quickly. now i am even more suspicious
-
-> see, that is not a denial. interesting
-
-> i am glad you are owning it at least
-
-### If You Opened With “What’s Interesting About Your Pictures?”
-
-Her:
-
-> what is it?
-
-Send one of these:
-
-> they make you look either very sweet or very good at pretending to be. i have not decided yet
-
-> you look like you have one story you only tell after two drinks
-
-> the [specific photo] looks like there is definitely a story behind it
-
-### If You Opened With “Can I Be Honest?”
-
-Her:
-
-> yes
-
-Send:
-
-> you are just my type
-
-Then wait for her reply. Do not add another message straight after it.
-
-## What You Are Looking For Next
-
-You only need one thing from this exchange: a real detail from her that you can use.
-
-A place she has been. A hobby. A strong opinion. A story. Something she did. Once she gives you that, go to the next section and pull on that detail.
+Once she gives you that detail, use the next section to pull on it.
 ## 2. Pull One Thread From What She Says Next
 
 Once she gives you something real about herself, use **conversation threading**.
@@ -162,6 +94,47 @@ You do not need a perfect conversation or twenty messages. A few good back-and-f
 
 Go to **Get The Yes** while the conversation still has energy. Do not keep texting until the chat has nothing left in it.
 
+## Ready-To-Use First Replies
+
+Use these after she replies to an opener. Pick the one that fits the opener and change the detail in brackets so it sounds like you.
+
+### When She Asks What You Mean
+
+> you have the look of someone who says “[innocent plan]” and ends up [playful outcome]. tell me i am wrong
+
+> the [photo / prompt] is giving “very sweet until [time / situation]” energy
+
+> you look far too innocent for someone with that much confidence in [profile detail]
+
+Example:
+
+> you have the look of someone who says “one drink” and gets home at 4am. tell me i am wrong
+
+### When She Plays Along
+
+> dangerous answer. i need [playful evidence] before i believe you
+
+> i knew it. what is the most [playful trait] thing you have done recently?
+
+> this is exactly the answer i was worried about
+
+### When She Gives A Short Warm Reply
+
+> you took that as a compliment far too quickly. now i am even more suspicious
+
+> see, that is not a denial. interesting
+
+> i am glad you are owning it at least
+
+### When She Gives You A Detail To Thread
+
+> [detail] is a big claim. what makes it that good?
+
+> okay, now i need the story behind [detail]
+
+> i need to know if [detail] was your idea or if someone talked you into it
+
+Use one. Then go back to the method above and pull on whatever she gives you next.
 ## If She Is Giving You Nothing
 
 Give her one clean reset:
@@ -171,4 +144,5 @@ Give her one clean reset:
 If she still gives you nothing back, stop. You cannot create momentum alone.
 
 Use **Bring The Conversation Back** later if you want to make one good restart.
+
 
