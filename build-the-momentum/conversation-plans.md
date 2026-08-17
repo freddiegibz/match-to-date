@@ -122,10 +122,6 @@ Example:
 
 > you took that as a compliment far too quickly. now i am even more suspicious
 
-> see, that is not a denial. interesting
-
-> i am glad you are owning it at least
-
 ### When She Gives You A Detail To Thread
 
 > [detail] is a big claim. what makes it that good?
@@ -133,6 +129,34 @@ Example:
 > okay, now i need the story behind [detail]
 
 > i need to know if [detail] was your idea or if someone talked you into it
+
+> wait, [detail]? that tells me you are either [playful assumption] or [playful assumption]. which one is it?
+
+> so you are one of those people who [playful assumption based on detail]. noted
+
+> i respect the commitment to [detail], but i need to know how this started
+
+> [detail] is a very bold choice. i need you to defend it properly
+
+> be honest, is [detail] a real interest or are you just very good at making it look convincing?
+
+> that is extremely [positive / playful trait] of you. what is the story there?
+
+> i feel like there is a much better story behind [detail] than you are letting on
+
+> you have clearly thought about [detail] more than the average person. how did that happen?
+
+For example, if she says she loves spicy margaritas:
+
+> spicy margaritas is a very bold choice. i need you to defend it properly
+
+If she says she has a golden retriever:
+
+> Milo is a very serious name for a dog who definitely gets away with everything. how did that happen?
+
+If she says she just came back from Lisbon:
+
+> okay, now i need the story behind Lisbon. food, sun, or did you actually do something cultured?
 
 Use one. Then go back to the method above and pull on whatever she gives you next.
 ## If She Is Giving You Nothing
