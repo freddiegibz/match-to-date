@@ -1,10 +1,8 @@
 ﻿# Bring The Conversation Back: Messages To Use
 
-This page is for when the chat has gone quiet and you want one good way back in.
+The chat has gone quiet. Below are four messages that give it a natural way back in, based on the chat you had.
 
-Below are four ways to restart it: bring back something you already talked about, start a fresh thread, send something that reminded you of her, or turn a good earlier chat into a date ask. Each one gives her a real thing to respond to, instead of making the silence the subject.
-
-Pick the route that fits the chat you had, make any bracketed detail fit, and send it.
+Pick the one that fits, make any brackets fit, and send it.
 
 ## 1. Bring Back Something You Already Talked About
 
