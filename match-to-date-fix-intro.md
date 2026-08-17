@@ -50,4 +50,6 @@ I have done it plenty of times. I have sent the wrong message, let a good chat g
 
 That is exactly why I built this product. It is built from what has worked for me, and from the mistakes that showed me what does not.
 
+It was hard to fit everything worth knowing into this without making it ridiculously long, so if you hit a blank moment or there is something you do not understand, email me at adsbyalfred@protonmail.com with the situation and I will help you work out your next move.
+
 
