@@ -1,10 +1,8 @@
 # Build The Momentum: How To Keep The Conversation Going
 
-She has replied. Now you need to turn one message into a conversation she actually wants to stay in.
+This pack gives you a repeatable way to turn her replies into a conversation, plus plans for when the chat goes flat or the topic runs out.
 
-If you are not sure how to do that yet, you are in the right place.
-
-You do not need to be naturally funny. You do not need to know the perfect thing to say every time. You need a simple way to reply when she gives you something, so the chat does not become a list of questions and short answers.
+Read the first example once. Then use the section that matches what she has just said.
 
 ## Start Here: Stop Asking The Next Question Straight Away
 
