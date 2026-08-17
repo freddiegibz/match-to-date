@@ -1,6 +1,6 @@
 ﻿# Get The Reply: Messages To Use
 
-Pick one message. Do not send two openers. Do not explain the hook until she replies.
+Pick one of the messages below and send it. If you are using the fill-in-the-blanks, take a real detail from her profile and use the examples for inspiration.
 
 ## Copy And Paste
 
