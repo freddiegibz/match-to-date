@@ -26,7 +26,7 @@ If she says yes, reply:
 
 ## Fill In The Blanks
 
-Use these when there is something in her profile that gives you an angle. They turn a real detail from her profile into an opener that feels personal, not copied and pasted. Replace everything in brackets before you send it.
+These are useful when there is something in her profile you can use to start a personal conversation. Replace everything in brackets before you send it.
 
 ### How To Fill One In
 
