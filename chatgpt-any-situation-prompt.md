@@ -1,4 +1,4 @@
-# The “What Do I Say Now?” ChatGPT Prompt
+﻿# The â€œWhat Do I Say Now?â€ ChatGPT Prompt
 
 Use this when you have a real dating-app conversation in front of you and you are not sure what to say next.
 
@@ -18,7 +18,7 @@ The situation:
 [Explain what has happened in one or two sentences.]
 
 Her profile:
-[Paste her bio, prompts, and anything useful from her photos. If there is nothing useful, write “nothing to use”.]
+[Paste her bio, prompts, and anything useful from her photos. If there is nothing useful, write â€œnothing to useâ€.]
 
 The conversation so far:
 [Paste the messages, with her messages and my messages clearly labelled.]
@@ -45,30 +45,6 @@ Give me:
 4. The most likely ways she could reply, and what I should say next for each one
 ```
 
-## Before You Send It To ChatGPT
-
-- [ ] Start with the real goal. Do not just ask “what should I say?”
-- [ ] Paste the actual conversation, not a summary if you can avoid it.
-- [ ] Include her profile if you want a personalised opener or callback.
-- [ ] Choose one type of reply. Do not ask it to solve five different things at once.
-- [ ] Read the answer and only use a message that sounds like something you would actually say.
-
-## Example: Asking Her Out
-
-For **My goal**, write:
-
-> ask her out
-
-For **What I want this reply to do**, write:
-
-> ask for a date that connects to the conversation we have been having
-
-For **The situation**, write:
-
-> We have been talking about food, she is replying quickly and asking questions back. I want to ask her out without making it feel random.
-
-Then paste the actual conversation underneath it.
-
 ## Fully Worked Example: Asking Her Out
 
 Here is what the prompt looks like when it is filled in properly.
@@ -83,9 +59,9 @@ The situation:
 We have had a good chat for a day. She is replying properly, asking me things back, and we have been joking about food. I want to ask her out without making it feel random.
 
 Her profile:
-- “My simple pleasures: trying every new pasta place in London”
+- â€œMy simple pleasures: trying every new pasta place in Londonâ€
 - Photo holding a huge bowl of pasta in Italy
-- Prompt: “I will fall for you if you can make me laugh”
+- Prompt: â€œI will fall for you if you can make me laughâ€
 
 The conversation so far:
 Me: you have very strong pasta opinions for someone i have only just matched with
@@ -109,7 +85,7 @@ A good ChatGPT answer would look like this:
 ```text
 1. Best message
 
-i think this pasta argument needs settling properly. let’s get a drink this week and you can tell me where i have been going wrong
+i think this pasta argument needs settling properly. letâ€™s get a drink this week and you can tell me where i have been going wrong
 
 2. Alternatives
 
@@ -129,11 +105,12 @@ If she says yes:
 perfect. what day works best for you?
 
 If she says she is busy but suggests another day:
-no worries, [her suggested day] works. let’s do it then.
+no worries, [her suggested day] works. letâ€™s do it then.
 
-If she says “maybe”:
+If she says â€œmaybeâ€:
 no stress. let me know if you decide you are up for it.
 
 If she says she is busy without suggesting another day:
 no worries, give me a shout when you have a gap.
 ```
+
