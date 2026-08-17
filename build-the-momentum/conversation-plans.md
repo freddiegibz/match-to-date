@@ -196,6 +196,42 @@ If she asks about your weekend:
 
 Use the conversation you are already having. A small callback makes the chat feel like it is going somewhere, rather than restarting from zero with every message.
 
+## When The Topic Has Died: Change It Without Making It Random
+
+Not every topic needs to become a full conversation. Sometimes you have had two or three decent messages about her dog, work, a holiday or a TV show, and there is simply nothing left to say about it.
+
+Do not panic and send a dead-end question like:
+
+> how has your day been?
+
+Close the old topic with one quick reaction, then open a new one that gives her something easier to have an opinion on.
+
+The shape is:
+
+> [last reaction to the old topic]. anyway, [new playful question].
+
+For example, after talking about her dog:
+
+> Milo clearly runs your life. anyway, important question: what is the one thing you would never share with a dog?
+
+After talking about a holiday:
+
+> okay, you have sold me on Lisbon. different question: are you a plan-the-whole-trip person or a book-the-flight-and-hope person?
+
+After talking about work:
+
+> marketing sounds like you spend your day making normal things sound exciting. outside of work, what are you weirdly particular about?
+
+That is not a random restart. You have acknowledged what she said, then given the chat a fresh place to go.
+
+If you cannot link the new topic to the old one, that is fine too. Just make the switch feel deliberate:
+
+> right, we have covered the important stuff. i need to know your most controversial food opinion.
+
+> changing subject because this feels more important: what is your go-to first drink order?
+
+Then, once she answers, go back to the same pattern: react, add something small about yourself, and give her an easy way to reply.
+
 ## When You Run Out Of Things To Say
 
 That will happen. It does not mean you have failed.
