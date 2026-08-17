@@ -1,8 +1,8 @@
 ﻿# Build The Momentum: Turn Her Reply Into A Conversation
 
-This page is for the moment after she replies to your opener.
+You got the reply. Your job here is to increase the momentum until you can ask her out.
 
-Your job is not to keep her talking for hours. Your job is to turn her first reply into a light, two-way conversation, then ask her out while it is still going well.
+We will run through what conversation threading is and how to use it. Then, at the bottom, you will find ready-to-use messages for each job.
 
 ## The Whole Process
 
