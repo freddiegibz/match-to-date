@@ -76,10 +76,10 @@ Profile detail: a photo with her dog
 
 ## Use ChatGPT To Fill These In
 
-If you can see a few details in her profile but cannot turn them into an opener, paste her profile into ChatGPT with this prompt:
+If you can see a few details in her profile but cannot turn them into an opener, take a screenshot of her profile, attach it to ChatGPT, then send this prompt:
 
 ```
-Read this dating-app profile and turn it into opening messages.
+Read the dating-app profile in the screenshot and turn it into opening messages.
 
 Use only real details from her photos and prompts. Do not invent anything.
 
@@ -95,8 +95,6 @@ Templates:
 7. the [photo / prompt / detail] is a very bold choice. i respect it
 8. you seem like the kind of person who would [playful assumption based on profile detail]. tell me i am wrong
 
-Her profile:
-[paste her photos, prompts and bio here]
 ```
 
 ## Before You Send It
