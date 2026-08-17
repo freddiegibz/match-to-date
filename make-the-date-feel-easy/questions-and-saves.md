@@ -1,4 +1,4 @@
-# Make The Date Feel Easy: Questions And Saves
+﻿# Make The Date Feel Easy: Questions And Saves
 
 You do not need to use all of these. Keep a few in the back of your mind, then use the one that fits what you are already talking about.
 
@@ -79,3 +79,5 @@ If these come up naturally, you can talk about them. Just do not force them into
 - Marriage, children, and the full future of the relationship
 
 The first date is for getting to know the person in front of you. You do not need to work out your whole future together over one drink.
+
+

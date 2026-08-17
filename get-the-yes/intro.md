@@ -1,4 +1,4 @@
-# 4. Get The Yes
+﻿# 4. Get The Yes
 
 At some point, you need to stop texting and ask her out.
 
@@ -34,7 +34,7 @@ For example:
 
 It is clear. It is relaxed. And it gives her something easy to say yes or no to.
 
-You do not need to apologise for asking. You do not need to say “no pressure.” You do not need to explain why you think a date would be good.
+You do not need to apologise for asking. You do not need to say "no pressure." You do not need to explain why you think a date would be good.
 
 Ask. Then let her answer.
 
@@ -42,13 +42,13 @@ Ask. Then let her answer.
 
 ### Do Not Make It Vague
 
-“We should hang out sometime” sounds nice, but it gives neither of you a next move.
+"We should hang out sometime" sounds nice, but it gives neither of you a next move.
 
 Say what you want to do and give it a window.
 
 ### Do Not Make It Sound Like You Do Not Mean It
 
-When you add words like “maybe,” “possibly,” “if you want,” and “no pressure” all into the same message, you make the ask sound nervous.
+When you add words like "maybe," "possibly," "if you want," and "no pressure" all into the same message, you make the ask sound nervous.
 
 It sounds like this:
 
@@ -56,7 +56,7 @@ It sounds like this:
 
 You are not being rude by being clear. You are simply saying what you want:
 
-> let’s get coffee this week
+> let's get coffee this week
 
 She can still say no. But she knows exactly what you are asking.
 
@@ -69,3 +69,5 @@ Ask while there is still some energy. If you wait until you have nothing left to
 If she gives you a vague answer, you do not need to sell her on it. See what she gives back and respond once, clearly.
 
 If she wants to meet, she will help make a plan. If she does not, leave it there.
+
+

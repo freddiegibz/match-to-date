@@ -1,4 +1,4 @@
-# Find Your Stage
+﻿# Find Your Stage
 
 ## 1. Get The Reply
 
@@ -31,3 +31,5 @@ You are here if the date is coming up and you want a clear plan for making it en
 ## 8. Get The Second Date
 
 You are here if the first date has happened and you want to see her again.
+
+

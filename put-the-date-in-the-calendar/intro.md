@@ -1,8 +1,8 @@
-# 5. Put The Date In The Calendar
+﻿# 5. Put The Date In The Calendar
 
 She has said yes.
 
-Good. Now turn that yes into an actual plan before it turns into “we should meet sometime” and disappears into the chat.
+Good. Now turn that yes into an actual plan before it turns into "we should meet sometime" and disappears into the chat.
 
 You do not need to plan the perfect date. You need to pick a simple place where you can talk, suggest a day and time, and make it easy for her to say yes or offer another option.
 
@@ -40,15 +40,15 @@ A coffee near a good walk, a drink in a relaxed bar, or dessert somewhere with o
 
 ## What Not To Do
 
-### Do Not Leave It As “Sometime”
+### Do Not Leave It As "Sometime"
 
-“We should meet sometime” feels positive, but it is not a plan.
+"We should meet sometime" feels positive, but it is not a plan.
 
 Once she has said yes, offer a day, a time, and a place. That is how the date becomes real.
 
 ### Do Not Make Her Plan Everything
 
-“What do you want to do?” sounds easy, but it gives her another decision to make before you have even met.
+"What do you want to do?" sounds easy, but it gives her another decision to make before you have even met.
 
 Pick something simple. She can always suggest a change if she wants to.
 
@@ -67,3 +67,5 @@ Choose somewhere you can talk naturally, with something around you to react to i
 ### Do Not Pick Somewhere Isolated
 
 Meet somewhere public. It is more comfortable for both of you, especially when you have only known each other through an app.
+
+

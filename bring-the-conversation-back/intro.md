@@ -1,4 +1,4 @@
-# 3. Bring The Conversation Back
+﻿# 3. Bring The Conversation Back
 
 The conversation was going well. Then she went quiet.
 
@@ -8,7 +8,7 @@ Sometimes you said something that gave her nowhere to go. Sometimes the chat jus
 
 This section is about giving the conversation one good chance to come back.
 
-Not with “hey?”
+Not with "hey?"
 
 Not with a paragraph asking if you said something wrong.
 
@@ -22,13 +22,13 @@ If she does not, leave it. You have made your move without chasing someone who i
 
 ## Common Failure Modes
 
-### Sending “Hey” Again
+### Sending "Hey" Again
 
-She did not reply to the first conversation. Another “hey” gives her no new reason to reply now.
+She did not reply to the first conversation. Another "hey" gives her no new reason to reply now.
 
 ### Asking Why She Went Quiet
 
-“Did I say something wrong?” and “Why did you stop replying?” put pressure on her and make the chat feel heavier than it needs to be.
+"Did I say something wrong?" and "Why did you stop replying?" put pressure on her and make the chat feel heavier than it needs to be.
 
 ### Double And Triple Texting
 
@@ -41,3 +41,5 @@ Do not joke about being ignored, accuse her of ghosting, or act annoyed. If she 
 ### Restarting The Exact Same Conversation
 
 If the old thread died, bring a new bit of energy. Start a different topic, make a playful callback, or give her something easy to react to.
+
+

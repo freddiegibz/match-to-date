@@ -1,4 +1,4 @@
-# 7. Make The Date Feel Easy
+﻿# 7. Make The Date Feel Easy
 
 You do not need to impress her for two hours straight.
 
@@ -28,13 +28,13 @@ That is enough.
 
 ### Do Not Treat It Like An Interview
 
-“Where are you from?”
+"Where are you from?"
 
-“Where did you go to uni?”
+"Where did you go to uni?"
 
-“Where do you work?”
+"Where do you work?"
 
-“Where do you see yourself in five years?”
+"Where do you see yourself in five years?"
 
 Those questions can all come up naturally. But one after another feels like you are trying to complete her profile rather than get to know her.
 
@@ -59,3 +59,5 @@ Tell the story. Then bring her back into it.
 You can talk about real things. Just do not turn the first hour into a therapy session, a rant about your ex, or a discussion about why dating has been terrible.
 
 Keep it light enough that you are both enjoying being there.
+
+

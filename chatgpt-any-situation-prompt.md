@@ -1,4 +1,4 @@
-﻿# The â€œWhat Do I Say Now?â€ ChatGPT Prompt
+﻿# The "What Do I Say Now?" ChatGPT Prompt
 
 Use this when you have a real dating-app conversation in front of you and you are not sure what to say next.
 
@@ -18,7 +18,7 @@ The situation:
 [Explain what has happened in one or two sentences.]
 
 Her profile:
-[Paste her bio, prompts, and anything useful from her photos. If there is nothing useful, write â€œnothing to useâ€.]
+[Paste her bio, prompts, and anything useful from her photos. If there is nothing useful, write "nothing to use".]
 
 The conversation so far:
 [Paste the messages, with her messages and my messages clearly labelled.]
@@ -59,9 +59,9 @@ The situation:
 We have had a good chat for a day. She is replying properly, asking me things back, and we have been joking about food. I want to ask her out without making it feel random.
 
 Her profile:
-- â€œMy simple pleasures: trying every new pasta place in Londonâ€
+- "My simple pleasures: trying every new pasta place in London"
 - Photo holding a huge bowl of pasta in Italy
-- Prompt: â€œI will fall for you if you can make me laughâ€
+- Prompt: "I will fall for you if you can make me laugh"
 
 The conversation so far:
 Me: you have very strong pasta opinions for someone i have only just matched with
@@ -85,7 +85,7 @@ A good ChatGPT answer would look like this:
 ```text
 1. Best message
 
-i think this pasta argument needs settling properly. letâ€™s get a drink this week and you can tell me where i have been going wrong
+i think this pasta argument needs settling properly. let's get a drink this week and you can tell me where i have been going wrong
 
 2. Alternatives
 
@@ -105,12 +105,14 @@ If she says yes:
 perfect. what day works best for you?
 
 If she says she is busy but suggests another day:
-no worries, [her suggested day] works. letâ€™s do it then.
+no worries, [her suggested day] works. let's do it then.
 
-If she says â€œmaybeâ€:
+If she says "maybe":
 no stress. let me know if you decide you are up for it.
 
 If she says she is busy without suggesting another day:
 no worries, give me a shout when you have a gap.
 ```
+
+
 

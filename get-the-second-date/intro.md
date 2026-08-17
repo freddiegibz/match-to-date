@@ -1,4 +1,4 @@
-# 8. Get The Second Date
+﻿# 8. Get The Second Date
 
 The date is over. You had a good time. Now do not disappear for three days trying to look cool.
 
@@ -28,7 +28,7 @@ You have only been on one date. You do not need to tell her she is different fro
 
 Keep it warm and real. One specific moment from the date is stronger than a paragraph of compliments.
 
-### Do Not Say “We Should Do This Again Sometime”
+### Do Not Say "We Should Do This Again Sometime"
 
 That sounds nice, but it is vague.
 
@@ -36,7 +36,7 @@ If you want to see her again, suggest something you could actually do together n
 
 ### Do Not Pretend The Date Did Not Happen
 
-“hey, how is your day going?” the next morning makes it sound as though you are starting a new conversation with someone you barely know.
+"hey, how is your day going?" the next morning makes it sound as though you are starting a new conversation with someone you barely know.
 
 Reference the date. Let her know you were present and enjoyed it.
 
@@ -45,3 +45,5 @@ Reference the date. Let her know you were present and enjoyed it.
 If she gives you a short answer, takes a long time to reply, or does not help keep the conversation going, do not try to convince her into a second date.
 
 You made your interest clear. Let her meet you there.
+
+

@@ -1,4 +1,4 @@
-# Make The Date Feel Easy: How To Talk Without Running Out Of Things To Say
+﻿# Make The Date Feel Easy: How To Talk Without Running Out Of Things To Say
 
 When you are nervous, it is easy to stop listening and start planning your next question while she is still talking.
 
@@ -58,7 +58,7 @@ Imagine she says:
 
 > honestly i love the creative side but clients can be a nightmare
 
-Do not jump straight to a new question like “what clients do you work with?”
+Do not jump straight to a new question like "what clients do you work with?"
 
 Stay with the part that has some feeling in it. Here, it is that she likes being creative and finds clients difficult.
 
@@ -76,7 +76,7 @@ Now ask about the part she clearly cares about:
 
 > what is the bit of it you actually enjoy most?
 
-That gives her an easy answer with more personality than “what kind of marketing do you do?”
+That gives her an easy answer with more personality than "what kind of marketing do you do?"
 
 ## The Whole Conversation, Put Together
 
@@ -197,3 +197,5 @@ Say it lightly.
 If she laughs or agrees, the tension has gone. Then ask her something easy about the place, her day, or how she got there.
 
 You are not admitting failure. You are being a normal person in a situation that makes most people a little nervous.
+
+

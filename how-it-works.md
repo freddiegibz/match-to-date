@@ -1,4 +1,4 @@
-# How It Works
+﻿# How It Works
 
 There are eight parts, in the order a dating-app match normally moves.
 
@@ -66,3 +66,5 @@ The product is there for the next moment, not for you to memorise all at once.
 3. Open **Messages, plans or ideas** if you need something to use.
 4. Make one move.
 5. Come back when the situation changes.
+
+

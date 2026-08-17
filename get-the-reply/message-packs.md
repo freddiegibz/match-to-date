@@ -42,9 +42,9 @@ If her profile has a photo of her jumping into the sea, fill it in like this:
 
 > okay, the jumping-in-the-sea photo tells me you are either fun on holiday or an absolute liability. which one is it?
 
-The photo is the real detail. “fun on holiday” and “an absolute liability” are the two playful assumptions. Neither needs to be true. They just give her an easy reason to reply.
+The photo is the real detail. "fun on holiday" and "an absolute liability" are the two playful assumptions. Neither needs to be true. They just give her an easy reason to reply.
 
-Keep the assumptions light. Do not use an insult, a serious judgement, or something sexual. If she can smile at it and say “what makes you say that?”, it works.
+Keep the assumptions light. Do not use an insult, a serious judgement, or something sexual. If she can smile at it and say "what makes you say that?", it works.
 
 > okay, the [photo / prompt / detail] tells me you are either [playful assumption] or [playful assumption]. which one is it?
 
@@ -82,6 +82,8 @@ Profile detail: a photo with her dog
 - [ ] Is it light and flattering?
 - [ ] Do you know what you will say when she asks what you mean?
 - [ ] Does it sound like you?
+
+
 
 
 

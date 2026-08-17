@@ -1,4 +1,4 @@
-# 2. Build The Momentum
+﻿# 2. Build The Momentum
 
 She replied.
 
@@ -10,11 +10,11 @@ I have lost matches here more times than I would like to admit.
 
 You get a good first reply, then suddenly you start interviewing her.
 
-“What do you do?”
+"What do you do?"
 
-“Where are you from?”
+"Where are you from?"
 
-“Have you got any plans this weekend?”
+"Have you got any plans this weekend?"
 
 She gives you an answer. You ask another question. She gives you another answer.
 
@@ -52,11 +52,11 @@ Ask something, react to her answer, give her your own opinion, then let the conv
 
 ### Replying Without Giving Her Anything Back
 
-“Haha nice.”
+"Haha nice."
 
-“That’s cool.”
+"That's cool."
 
-“Fair enough.”
+"Fair enough."
 
 These replies end conversations because there is nowhere for her to go next.
 
@@ -85,3 +85,5 @@ Once you have had a good bit of back-and-forth and she is clearly engaged, move 
 You cannot force momentum by sending better and better messages to someone who is giving you nothing back.
 
 If she gives short answers, never asks anything back, and does not play along, stop trying to perform for her. Match her energy and move on.
+
+

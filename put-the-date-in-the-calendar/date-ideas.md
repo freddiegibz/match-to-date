@@ -1,4 +1,4 @@
-# Put The Date In The Calendar: Date Ideas To Use
+﻿# Put The Date In The Calendar: Date Ideas To Use
 
 Choose the idea that fits the time of day, weather, budget, and conversation you have already had.
 
@@ -30,7 +30,7 @@ Best for: a light evening plan, warmer weather, or when a drink feels too standa
 
 It is short, cheap enough, and gives you something to do with your hands while you talk.
 
-> you seem like someone with strong dessert opinions. let’s test that at [place] this week
+> you seem like someone with strong dessert opinions. let's test that at [place] this week
 
 > ice cream at [place] on sunday? you can tell me why your flavour choice is objectively better than mine
 
@@ -70,7 +70,7 @@ If it is raining, do not panic and reinvent the date.
 
 Use a quiet bar, cafe, dessert place, food hall, gallery, bookshop, mini golf, darts, bowling, or an arcade.
 
-> weather has ruined the original plan, so let’s do [indoor place] at [time] instead
+> weather has ruined the original plan, so let's do [indoor place] at [time] instead
 
 ## A Simple Plan When Money Is Tight
 
@@ -87,3 +87,5 @@ Coffee, a walk, ice cream, a market, a free gallery, a bookshop, or a cheap drin
 - [ ] Is it simple enough for a first meeting?
 - [ ] Have you named a day, time, and place?
 - [ ] Would you genuinely enjoy this date yourself?
+
+

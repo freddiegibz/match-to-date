@@ -1,8 +1,8 @@
-# Intro
+﻿# Intro
 
 Once you have fixed your photos, you will get more matches.
 
-This shows you the steps after that: how to consistently turn those matches into dates and, eventually, “when can I see you again?” without learning every part through trial and error.
+This shows you the steps after that: how to consistently turn those matches into dates and, eventually, "when can I see you again?" without learning every part through trial and error.
 
 Getting the match is the opportunity. Knowing what to do after it is what turns the opportunity into something real.
 
@@ -24,7 +24,7 @@ I have used the wins and the failures to cut out the guessing. The messages, con
 - 150+ messages, opening hooks, replies, date asks and follow-ups.
 - The most common errors at every stage, so you know what kills momentum before you make them.
 - Conversation plans, date plans and questions for when you need more than one line.
-- The “What Do I Say Now?” prompt for any situation that does not fit neatly into a part.
+- The "What Do I Say Now?" prompt for any situation that does not fit neatly into a part.
 
 The advice is based on dating-coach strategies that are usually sold inside courses costing hundreds of dollars, plus my own real experience: the matches and dates that went well, and the ones I lost because I got a stage wrong.
 
@@ -49,3 +49,5 @@ If you mess up a couple of matches, that is fine. Everyone does it.
 I have done it plenty of times. I have sent the wrong message, let a good chat go flat, waited too long to ask her out, and lost matches I wish I had handled differently.
 
 That is exactly why I built this product. It is built from what has worked for me, and from the mistakes that showed me what does not.
+
+

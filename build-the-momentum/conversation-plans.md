@@ -33,7 +33,7 @@ Her:
 
 You:
 
-> you have the look of someone who says “one drink” and gets home at 4am. tell me i am wrong
+> you have the look of someone who says "one drink" and gets home at 4am. tell me i am wrong
 
 You answered her question, kept the same tone, and gave her a clear thing to react to. That is all the first reply needs to do.
 
@@ -42,7 +42,7 @@ The only thing you are looking for is one real detail from her: a place, a hobby
 Once she gives you that detail, use the next section to pull on it.
 ## 2. Start A Thread When She Has Not Given You One
 
-Sometimes her first reply gives you nothing to pull on yet. That is normal. Do not force a random “what do you do?” question.
+Sometimes her first reply gives you nothing to pull on yet. That is normal. Do not force a random "what do you do?" question.
 
 Start a thread with a playful question that gives her an opinion, a choice, or a story to answer.
 
@@ -63,11 +63,11 @@ Her:
 
 > i went to Lisbon at the weekend. the food was ridiculous
 
-The thread is not â€œwhat did you do there?â€ The useful detail is the food.
+The thread is not "what did you do there?" The useful detail is the food.
 
 You:
 
-> â€œridiculousâ€ is a big claim. give me the one place that makes Lisbon worth booking
+> "ridiculous" is a big claim. give me the one place that makes Lisbon worth booking
 
 Now she has an easy, specific question to answer. She can recommend somewhere, disagree, or tell a story.
 
@@ -109,7 +109,7 @@ Or:
 
 > right, we have covered the important stuff. are you a plan-the-whole-trip person or a book-the-flight-and-hope person?
 
-Do not send â€œhow has your day been?â€ because you do not know what else to say. Give her a question with an opinion, a choice or a bit of personality in it.
+Do not send "how has your day been?" because you do not know what else to say. Give her a question with an opinion, a choice or a bit of personality in it.
 
 ## 6. Know When To Ask Her Out
 
@@ -130,15 +130,15 @@ Use these after she replies to an opener. Pick the one that fits the opener and 
 
 ### When She Asks What You Mean
 
-> you have the look of someone who says “[innocent plan]” and ends up [playful outcome]. tell me i am wrong
+> you have the look of someone who says "[innocent plan]" and ends up [playful outcome]. tell me i am wrong
 
-> the [photo / prompt] is giving “very sweet until [time / situation]” energy
+> the [photo / prompt] is giving "very sweet until [time / situation]" energy
 
 > you look far too innocent for someone with that much confidence in [profile detail]
 
 Example:
 
-> you have the look of someone who says “one drink” and gets home at 4am. tell me i am wrong
+> you have the look of someone who says "one drink" and gets home at 4am. tell me i am wrong
 
 ### When She Plays Along
 
@@ -225,6 +225,8 @@ Give her one clean reset:
 If she still gives you nothing back, stop. You cannot create momentum alone.
 
 Use **Bring The Conversation Back** later if you want to make one good restart.
+
+
 
 
 

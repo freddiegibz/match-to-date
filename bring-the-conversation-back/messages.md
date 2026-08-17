@@ -1,4 +1,4 @@
-# Bring The Conversation Back: Messages To Use
+﻿# Bring The Conversation Back: Messages To Use
 
 You are not sending a follow-up to ask why she disappeared.
 
@@ -34,7 +34,7 @@ She told you she loved spicy margaritas.
 
 Use this when the last chat was short, forgettable, or there is nothing worth calling back to.
 
-Do not ask “how are you?” again. Give her a question that has a bit of personality in it.
+Do not ask "how are you?" again. Give her a question that has a bit of personality in it.
 
 > i need a tie-breaker opinion. [option one] or [option two]?
 
@@ -66,11 +66,11 @@ Do not force this one. If you have nothing real to send, use a fresh-topic resta
 
 Use this when the conversation was good before it went quiet, or when you have already had enough back-and-forth and do not want to restart another long chat.
 
-> we got distracted, but i still think you seem fun. let’s continue this over a drink this week
+> we got distracted, but i still think you seem fun. let's continue this over a drink this week
 
 > i know it has gone quiet, but i would still take you out. are you free this week?
 
-> i still want to hear the rest of that story in person. let’s get a drink this week
+> i still want to hear the rest of that story in person. let's get a drink this week
 
 This is not a last-ditch plea. You are making a clear invitation and letting her decide.
 
@@ -97,3 +97,5 @@ If she apologises for the delay, keep it easy:
 > no stress, how did [thing] go?
 
 If she gives you a proper, engaged reply, build a little momentum again and move to **Get The Yes** before the chat goes flat for a second time.
+
+

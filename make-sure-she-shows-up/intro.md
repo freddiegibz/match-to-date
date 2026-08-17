@@ -1,4 +1,4 @@
-# 6. Make Sure She Shows Up
+﻿# 6. Make Sure She Shows Up
 
 The date is in the calendar.
 
@@ -40,7 +40,7 @@ Too much texting can burn through the conversation before you have met. Save som
 
 One confirmation message is enough.
 
-“Still on?” followed by “hello?” followed by “are we doing this?” makes a simple plan feel stressful.
+"Still on?" followed by "hello?" followed by "are we doing this?" makes a simple plan feel stressful.
 
 ### Do Not Act Annoyed If She Needs To Rearrange
 
@@ -57,3 +57,5 @@ Say something simple, leave the door open, and let her show whether she actually
 If you have sent the confirmation and she has not replied, do not spend your evening travelling across town hoping she appears.
 
 Wait for a clear yes before you set off.
+
+

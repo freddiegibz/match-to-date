@@ -1,4 +1,4 @@
-# 1. Get The Reply
+﻿# 1. Get The Reply
 
 You have matched with her.
 
@@ -6,11 +6,11 @@ Now you need to give her a reason to open the chat and reply.
 
 Most guys get this wrong because they try to start a normal conversation straight away.
 
-“Hey, how are you?”
+"Hey, how are you?"
 
-“How has your week been?”
+"How has your week been?"
 
-“What do you do for work?”
+"What do you do for work?"
 
 Nothing wrong with those questions in real life. But on a dating app, she has already seen them all. They do not make her feel anything. They do not give her a reason to choose your message over the next one.
 
@@ -20,15 +20,15 @@ Make her curious enough to reply.
 
 You do that by saying something playful, slightly unfinished, or unexpected.
 
-Something that makes her think, “What does he mean by that?”
+Something that makes her think, "What does he mean by that?"
 
 For example:
 
-> “ur cute but you look like trouble”
+> "ur cute but you look like trouble"
 
 Or:
 
-> “hey [name], you know what’s interesting about your pictures?”
+> "hey [name], you know what's interesting about your pictures?"
 
 Both messages give her something to react to.
 
@@ -55,3 +55,5 @@ Do not send a curiosity hook if you have nothing to say when she asks what you m
 The goal is not to trick her into replying.
 
 The goal is to start the conversation with a bit of curiosity, flirtiness, and momentum.
+
+

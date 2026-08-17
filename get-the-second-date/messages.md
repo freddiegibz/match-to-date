@@ -1,4 +1,4 @@
-# Get The Second Date: Messages To Use
+﻿# Get The Second Date: Messages To Use
 
 ## If The Date Clearly Went Well
 
@@ -32,7 +32,7 @@ Now suggest the second date.
 
 > good, because i still think we need to [second-date idea connected to the first date]. are you free next week?
 
-> glad you said that. you mentioned [thing she likes]. let’s do that next week
+> glad you said that. you mentioned [thing she likes]. let's do that next week
 
 > good. i feel like we need round two. [specific plan] this week?
 
@@ -40,7 +40,7 @@ Now suggest the second date.
 
 Use that. It feels natural because you are picking up a conversation you already had.
 
-> you mentioned you have never been to [place]. let’s fix that next week
+> you mentioned you have never been to [place]. let's fix that next week
 
 > i am still holding you to that [activity / food / place] recommendation. when are you free next week?
 
@@ -54,7 +54,7 @@ Her:
 
 You:
 
-> i had a great time too. [specific moment] was brilliant. let’s do [second-date idea] next week
+> i had a great time too. [specific moment] was brilliant. let's do [second-date idea] next week
 
 ## If She Replies, But It Is Lukewarm
 
@@ -80,10 +80,12 @@ You sent a clear, kind message. Give her space. If she wants to see you again, s
 
 Use something connected to what you spoke about on the first date.
 
-> you clearly have strong opinions about [food]. let’s test them at [place] next week
+> you clearly have strong opinions about [food]. let's test them at [place] next week
 
 > you made [activity] sound far more fun than it should be. come and show me next week
 
 > you still owe me proof that you are actually good at [thing she claimed]. [activity] this week?
 
-> you said you love [place / type of thing]. i know a good one. let’s go next week
+> you said you love [place / type of thing]. i know a good one. let's go next week
+
+
