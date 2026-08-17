@@ -39,6 +39,8 @@ You answered her question, kept the same tone, and gave her a clear thing to rea
 
 The only thing you are looking for is one real detail from her: a place, a hobby, an opinion, a story, or something she did.
 
+At first, spotting the detail and knowing what to do with it can take a second. After five to ten real conversations, you start seeing them automatically. Until then, if she gives you something and you cannot see the next move, use the Master Prompt. Paste the chat in and ask it to find the best thread to pull on.
+
 Once she gives you that detail, use the next section to pull on it.
 ## 2. Start A Thread When She Has Not Given You One
 
