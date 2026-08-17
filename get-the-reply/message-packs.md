@@ -26,6 +26,24 @@ If she says yes, reply:
 
 Use these when there is something in her profile that gives you an angle. Replace everything in brackets before you send it.
 
+### How To Fill One In
+
+First, find one clear detail in her profile. Use something you can actually see or read: a photo, a prompt answer, a dog, a trip, a hobby, or a drink she mentioned.
+
+Then turn that detail into a light assumption. You are not trying to describe her perfectly. You are giving her something playful to agree with, deny, or explain.
+
+For this template:
+
+> okay, the [photo / prompt / detail] tells me you are either [playful assumption] or [playful assumption]. which one is it?
+
+If her profile has a photo of her jumping into the sea, fill it in like this:
+
+> okay, the jumping-in-the-sea photo tells me you are either fun on holiday or an absolute liability. which one is it?
+
+The photo is the real detail. “fun on holiday” and “an absolute liability” are the two playful assumptions. Neither needs to be true. They just give her an easy reason to reply.
+
+Keep the assumptions light. Do not use an insult, a serious judgement, or something sexual. If she can smile at it and say “what makes you say that?”, it works.
+
 > okay, the [photo / prompt / detail] tells me you are either [playful assumption] or [playful assumption]. which one is it?
 
 > i have a theory about the [photo / prompt / detail], but i need you to confirm it first
