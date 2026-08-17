@@ -29,7 +29,6 @@ It explains:
 - What this stage is for.
 - What a good outcome looks like.
 - The common mistakes that lose the match here.
-- How to know when you are ready for the next stage.
 
 Read this if you are unsure what to do, why a chat is not moving, or what you keep getting wrong.
 
